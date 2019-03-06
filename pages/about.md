@@ -10,4 +10,4 @@ Exercism is entirely open source and relies on the contributions of thousands of
 
 Exercism is designed to be fun and friendly, and we place a strong emphasis on empathetic communication. If you have any questions or concerns about Exercism, you can browse our [FAQs](/faqs) or [contact us](/contact).
 
-Sign up and have fun. Exercism is 100% free :)
+[Sign up](/users/sign_up) and have fun. Exercism is 100% free :)
